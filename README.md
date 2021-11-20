@@ -112,7 +112,7 @@ Note that no clients currently let you change a nickname _space-wide_, and there
 
 ### Can I add profile information to my account?
 
-There's a [proposal for that](https://github.com/matrix-org/matrix-doc/blob/matthew/msc1769/proposals/1769-extensible-profiles-as-rooms.md) in discussion, which would allow arbitrary data, but no clients currently use it. It doesn't require any server-side changes so it can be contributed!
+There's a [proposal for that](https://github.com/matrix-org/matrix-doc/pull/1769) in discussion, which would allow arbitrary data, but no clients currently use it. It doesn't require any server-side changes so it can be contributed!
 
 ## Hosting FAQ
 
