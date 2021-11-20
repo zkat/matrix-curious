@@ -69,6 +69,10 @@ However, Element is planning on supporting it in the future, see [their roadmap]
 
 Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-doc/pull/1951) and [here](https://github.com/matrix-org/matrix-doc/pull/2545)), and Fluffychat, Nheko-reborn, and Element (with an integration manager) technically support it, it's not as polished or straight-forward as, for example, Telegram.
 
+### Can I pin messages?
+
+This is currently in progress, and is a Labs feature on Element (TODO: link?).
+
 ### The notification defaults are really noisy. How do I fix it?
 
 You can change your default ("global") settings by going to the settings menu of your favorite app. On Element Desktop, this is the area you usually want to edit:
