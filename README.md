@@ -73,7 +73,14 @@ Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-d
 
 You can change your default ("global") settings by going to the settings menu of your favorite app. On Element Desktop, this is the area you usually want to edit:
 
-![Global notification settins on Element Desktop](media/notifications.png)
+**All Settings** → **Notifications** → **Global**
+
+| Option                            | Setting |
+|-----------------------------------|---------|
+| Messages in group chats           | Off     |
+| Encrypted messages in group chats | Off     |
+
+![Global notification settings on Element Desktop](media/notifications.png)
 
 "Noisy" means you'll get a big notification badge and an audio notification.
 
