@@ -16,6 +16,10 @@ You can sign up on any server, and still chat with anyone on (mostly) any other 
 
 If you want to go the _easy_ way, that's probably to sign up on [matrix.org itself](https://app.element.io/?pk_vid=d4b162e0e6c511851631808451ab93fb#/register), but you can also talk to a friend, or [pay to host your own, using your own domain name](#hosting-faq)
 
+### Is there a client? Which one should I pick?
+
+There's [a bunch of clients](https://matrix.org/clients/), with different levels of support and features. In general, it seems Element and FluffyChat are the more feature-complete ones, but the others are worth trying out, too, and some of them even do things in interesting ways. Element and FluffyChat both also have iOS and Android clients.
+
 ### What do all these terms mean?
 
 Most concepts for folks coming from Slack/Discord/etc map fairly easily. Here's a short glossary/thesaurus of terms and how they map between services.
