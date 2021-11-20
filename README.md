@@ -83,6 +83,14 @@ E2EE is great, but it comes with some disadvantages when it comes to large commu
 
 In general, there's not much/any benefit in E2EE for very large, public channels where anyone could be there, so the setting is turned off by default because of this.
 
+### Can I have a different display name/nickname per room/space?
+
+Yes! How you change it depends on the client but, for example, the `/myroomnick` slash command will let you do this on Element.
+
+You can also set your display name globally in Settings.
+
+Note that no clients currently let you change a nickname _space-wide_, and there's nothing in the protocol for doing this.
+
 ## Hosting FAQ
 
 ### I want my own account/@ on my own domain. How can I do that?
