@@ -23,7 +23,7 @@ Most concepts for folks coming from Slack/Discord/etc map fairly easily. Here's 
 Discord |Slack | Matrix | Notes
 --------|------|--------|-------
 channel | channel | room | n.b. Slack servers are sometimes called "channels" but I don't think this is official.
-server | server/channel | space | Spaces are a bit fancier in some ways, such as rooms being able to exist in multiple Spaces, and Spaces being able to contain other Spaces themselves.
+server | workspace (sometimes people refer to them as "channels" anyway) | space | Spaces are a bit fancier in some ways, such as rooms being able to exist in multiple Spaces, and Spaces being able to contain other Spaces themselves.
 instance (usually the _service_ itself) | instance (usually the _service_ itself) | server or homeserver | Matrix is [federated](https://matrix.org/faq/#what-does-federated-mean%3F). Many "servers" can talk to each other to form a network, and everyone can talk to each other across these servers, regardless of where their "homeserver" is.
 
 
