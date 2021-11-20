@@ -73,6 +73,10 @@ Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-d
 
 This is currently in progress, and is a Labs feature on Element (TODO: link?).
 
+### Does Matrix support audio/video calling? What about screen sharing?
+
+It does! Though, again, features available may depend on your client.
+
 ### The notification defaults are really noisy. How do I fix it?
 
 You can change your default ("global") settings by going to the settings menu of your favorite app. On Element Desktop, this is the area you usually want to edit:
