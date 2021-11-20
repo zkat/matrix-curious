@@ -110,6 +110,10 @@ You can also set your display name globally in Settings.
 
 Note that no clients currently let you change a nickname _space-wide_, and there's nothing in the protocol for doing this.
 
+### Can I add profile information to my account?
+
+There's a [proposal for that](https://github.com/matrix-org/matrix-doc/blob/matthew/msc1769/proposals/1769-extensible-profiles-as-rooms.md) in discussion, which would allow arbitrary data, but no clients currently use it. It doesn't require any server-side changes so it can be contributed!
+
 ## Hosting FAQ
 
 ### I want my own account/@ on my own domain. How can I do that?
