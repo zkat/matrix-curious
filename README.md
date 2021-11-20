@@ -73,6 +73,16 @@ You can change your default ("global") settings by going to the settings menu of
 
 "Noisy" means you'll get a big notification badge and an audio notification.
 
+### If Matrix supports end-to-end encryption (E2EE), why don't all channels use it?
+
+E2EE is great, but it comes with some disadvantages when it comes to large community rooms, for example:
+
+1. Most bots don't work
+2. A lot of clients still don't support it
+3. It stops some conveniences from being possible, such as the server resizing images for you, which leaves more work on the client side (slowing things down)
+
+In general, there's not much/any benefit in E2EE for very large, public channels where anyone could be there, so the setting is turned off by default because of this.
+
 ## Hosting FAQ
 
 ### I want my own account/@ on my own domain. How can I do that?
