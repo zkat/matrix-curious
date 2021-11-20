@@ -16,7 +16,7 @@ There's a lot of sharp corners in pretty much all the main clients right now, bu
 
 ### Help! I tried to join the Matrix Curious link but I can't join the room?
 
-The Matrix Curious link (TODO: link) is actually a link to something called a "Space", roughly equivalent to a Discord or Slack server. They're a very new feature, so many clients don't yet fully support them. Some of the confusion comes from the fact that they are _technically_ rooms, so clients who aren't fully Space-aware might get confused and try to treat it as one.
+The [Matrix Curious link](https://matrix.to/#/#matrix-curious:matrix.org) is actually a link to something called a "Space", roughly equivalent to a Discord or Slack server. They're a very new feature, so many clients don't yet fully support them. Some of the confusion comes from the fact that they are _technically_ rooms, so clients who aren't fully Space-aware might get confused and try to treat it as one.
 
 If you try first joining the space from something like Element or FluffyChat, you'll be able to join the rooms, and then other clients should work just fine for those individual rooms.
 
@@ -34,11 +34,17 @@ Go to Settings and go to the Labs tab on the sidebar. There's lots of good stuff
 
 ### Does Matrix support threads/threading?
 
-Threading is being actively worked on (TODO: link). Some clients, such as Element, already support threading. On Element, you'll have to enable the Labs feature.
+Threading is [actively being worked on](https://github.com/vector-im/roadmap/projects/1#card-48804707). Some clients, such as Element, already support threading. On Element, you'll have to enable the Labs feature. (As of nov 2021)
 
 ### Does Matrix support custom emoji?
 
 Not in the protocol right now, and it's not a priority, but some clients such as FluffyChat (TODO: link) already support custom emoji packs!
+
+However, Element is planning on supporting it in the future, see [their roadmap](https://github.com/vector-im/roadmap/projects/1#card-48806230).
+
+### Does Matrix support stickers?
+
+Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-doc/pull/1951) and [here](https://github.com/matrix-org/matrix-doc/pull/2545)), and Fluffychat,= Nheko-reborn and Element (with an integration manager) technically support it, it's not as polished or straight-forward as, for example, Telegram.
 
 ## Hosting FAQ
 
