@@ -2,6 +2,10 @@
 
 FAQ and resources for those curious about joining the Matrix network!
 
+To ask more questions, or just try things out in a space meant for newbies to do just that, join the [Matrix Curious Space](https://matrix.to/#/#matrix-curious:matrix.org)!
+
+Don't know how to join? Keep reading below!
+
 ## General FAQ
 
 ### What is Matrix?
