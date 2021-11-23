@@ -75,7 +75,7 @@ Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-d
 
 ### Can I add alt text to images?
 
-Not in a portable way right now. There's a text field but some clients use it for filename, some for alt text. That's something that currently needs fixing in the protocol. If this is important to you, please push for it [here](#). (TODO: LINK)
+Not in a portable way right now. There's a text field but some clients use it for filename, some for alt text. That's something that currently needs fixing in the protocol. If this is important to you, please push for it [here](https://github.com/matrix-org/matrix-doc/pull/2530). The current more generalized push for something that would allow alt-text (among other things) is [MSC1767](https://github.com/matrix-org/matrix-doc/pull/1767).
 
 ### Can I pin messages?
 
