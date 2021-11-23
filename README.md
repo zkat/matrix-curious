@@ -73,6 +73,10 @@ However, Element is planning on supporting it in the future, see [their roadmap]
 
 Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-doc/pull/1951) and [here](https://github.com/matrix-org/matrix-doc/pull/2545)), and Fluffychat, Nheko-reborn, and Element (with an integration manager) technically support it, it's not as polished or straight-forward as, for example, Telegram.
 
+### Can I add alt text to images?
+
+Not in a portable way right now. There's a text field but some clients use it for filename, some for alt text. That's something that currently needs fixing in the protocol. If this is important to you, please push for it [here](#). (TODO: LINK)
+
 ### Can I pin messages?
 
 This is currently in progress, and is a Labs feature on Element (TODO: link?).
