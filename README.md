@@ -73,6 +73,12 @@ However, Element is planning on supporting it in the future, see [their roadmap]
 
 Not yet, some proposals exist (see [here](https://github.com/matrix-org/matrix-doc/pull/1951) and [here](https://github.com/matrix-org/matrix-doc/pull/2545)), and Fluffychat, Nheko-reborn, and Element (with an integration manager) technically support it, it's not as polished or straight-forward as, for example, Telegram.
 
+### How do I do spoilers/CW/sensitive messages?
+
+For messages, this varies by client. In Element, you can usually just use the `/spoiler` slash command. Other clients might vary. Feel free to PR your client's method here.
+
+For media, there's currently no support for spoilers/CW. ([Tracking issue](https://github.com/vector-im/element-web/issues/10882))
+
 ### Can I add alt text to images?
 
 Not in a portable way right now. There's a text field but some clients use it for filename, some for alt text. That's something that currently needs fixing in the protocol. If this is important to you, please push for it [here](https://github.com/matrix-org/matrix-doc/pull/2530). The current more generalized push for something that would allow alt-text (among other things) is [MSC1767](https://github.com/matrix-org/matrix-doc/pull/1767).
