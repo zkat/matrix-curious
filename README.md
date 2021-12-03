@@ -57,7 +57,7 @@ If this is not something you're into, there's plenty of comfortable spaces away 
 
 ### How do I enable Labs features on Element?
 
-Go to Settings and go to the Labs tab on the sidebar. There's lots of good stuff there to try!
+Go to Settings and go to the Labs tab on the sidebar. There's lots of good stuff there to try! You'll need Element Nightly, though!
 
 ### Does Matrix support threads/threading?
 
